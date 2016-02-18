@@ -2727,14 +2727,17 @@ span.stButton_gradient,
 i.fa.fa-laptop {
     font-size: 100px;
     color: #0F91D0;
+    margin-bottom: 10px;
 }
 i.fa.fa-mobile {
   font-size: 100px;
   color: #0F91D0;
+  margin-bottom: 10px;
 }
 i.fa.fa-line-chart {
   font-size: 100px;
   color: #0F91D0;
+  margin-bottom: 10px;
 }
 i.fa.fa-users {
  font-size: 100px;
