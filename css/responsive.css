@@ -236,6 +236,7 @@
   .navbar-inverse .navbar-collapse,
   .navbar-inverse .navbar-form {
     border-top: 0;
+    margin-top: 22px;
   }
 
   .navbar.navbar-inverse {
